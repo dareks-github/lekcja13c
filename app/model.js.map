@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/app/model.js"],"names":["numbers","users"],"mappings":";;;;;AAAA;;;AAGA,IAAIA,UAAU,EAAd;AACA,IAAIC,QAAQ,EAAZ;;QAESD,O,GAAAA,O;QAASC,K,GAAAA,K","file":"model.js","sourcesContent":["// export modelu czyli tablic na dane aplikacji\r\n\r\n\r\nlet numbers = []\r\nlet users = []\r\n\r\nexport { numbers, users }\r\n\r\n"]}
